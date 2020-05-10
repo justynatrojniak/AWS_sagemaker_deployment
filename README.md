@@ -2,7 +2,7 @@
 ### SageMaker Deployment Project
 
 
-This is the final solution of the project 'Sagemaker Deployment' that presents the Sentiment Analysis model using RNN in the Amazon AWS SageMaker tool (AWS API Gateway and AWS Lambda function as well). The notebook and Python files provided here result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.  
+This is the final solution of the project 'Sagemaker Deployment' that presents sentiment analysis model using RNN in the Amazon AWS SageMaker tool (AWS API Gateway and AWS Lambda function as well). The notebook and Python files provided here result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.  
 
 You can find the original code without solutions in the original [Udacity SageMaker Deployment repository](https://github.com/udacity/sagemaker-deployment).
 
