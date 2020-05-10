@@ -1,5 +1,5 @@
 ## Deep Learning Nanodegree - Udacity
-## SageMaker Deployment Project
+### SageMaker Deployment Project
 
 
 This is the final solution of the project 'Sagemaker Deployment' which consists in deploying a Sentiment Analysis model using RNN in the Amazon AWS SageMaker tool (The architecture consists of AWS API Gateway and AWS Lambda function as well). The notebook and Python files provided here result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.  
